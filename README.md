@@ -1,4 +1,4 @@
-# Unit Tests Live
+# 🧪 Unit Tests Live
 
 ## 🔖&nbsp; Sobre
 Aplicação backend para exemplificar a utilização de testes de unidade, desenvolvida para a live ▶ [Testes de Unidade são importantes?](https://youtu.be/hSQQuRgbaLA) realizada no canal [Angelito Casagrande](https://www.youtube.com/channel/UCBZW0xj_D2uKijglvFa-JPg) no **YouTube**.
